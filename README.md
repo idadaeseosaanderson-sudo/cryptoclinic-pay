@@ -34,11 +34,18 @@ Full blueprint in docs/ (coming soon).
 
 Built for App Stores in USA and Nigeria.
 
-## Unitum Holdings Corporation
+## Unitum Holdings Corporation & Lodestar Hub
 
 Cryptoclinic is the flagship Bitcoin franchise of Unitum Holdings Corporation.
 
-- Corporate site & hub (Lodestar): https://github.com/idadaeseosaanderson-sudo/lodestar-hub
+The expanded corporate digital headquarters (Lodestar Hub) now includes dedicated pages:
+- Home (executive landing)
+- /about
+- /portfolio
+- /transparency (Source of Truth)
+- /contact
+
+- Corporate site source: https://github.com/idadaeseosaanderson-sudo/lodestar-hub
 - Public corporate record: https://github.com/idadaeseosaanderson-sudo/unitum-holdings
 
 All details are sourced from and verifiable in these GitHub repositories (single source of truth).
