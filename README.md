@@ -2,7 +2,7 @@
 
 **Bitcoin Payment + Tax Compliance System**
 
-Official mobile app by Unitum Holdings Corporation - the Bitcoin franchise.
+Official mobile app by **Unitum Holdings Corporation** — the Bitcoin franchise.
 
 ## Features
 - Accept BTC (Lightning & On-chain) via Breez SDK
@@ -33,5 +33,14 @@ Full blueprint in docs/ (coming soon).
 - Privacy policy & disclosures included.
 
 Built for App Stores in USA and Nigeria.
+
+## Unitum Holdings Corporation
+
+Cryptoclinic is the flagship Bitcoin franchise of Unitum Holdings Corporation.
+
+- Corporate site & hub (Lodestar): https://github.com/idadaeseosaanderson-sudo/lodestar-hub
+- Public corporate record: https://github.com/idadaeseosaanderson-sudo/unitum-holdings
+
+All details are sourced from and verifiable in these GitHub repositories (single source of truth).
 
 #Bitcoin #TaxCompliance #UnitumHoldings
